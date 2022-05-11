@@ -5,7 +5,9 @@
 </div>
 
 
-## 📬 Contact ByteCode Studio
+## 📬 About ByteCode Studio
+
+### `Contact Details` 
 
 ByteCode Studio  
 bytecodestudio.github.io  
@@ -14,6 +16,11 @@ bytecodestudio.contact@gmail.com
 Vidya Mawatha, Colombo 7, Sri Lanka  
 © 2022 All Rights Reserved. ByteCode Studio.
 
+### `Social Media` 
+
+Facebook  
+Twitter  
+YouTube  
 
 ## 🖥️ Projects
 
