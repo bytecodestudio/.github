@@ -18,9 +18,9 @@ Vidya Mawatha, Colombo 7, Sri Lanka
 
 ### `Social Media` 
 
-[![Facebook](https://github.com/dileepabandara/dileepabandara/blob/main/images/icons8_facebook_32px.png)](https://www.facebook.com/)
-[![Twitter](https://github.com/dileepabandara/dileepabandara/blob/main/images/icons8_twitter_32px.png)](https://twitter.com/)
-[![YouTube](https://github.com/dileepabandara/dileepabandara/blob/main/images/icons8_youtube_32px.png)](https://www.youtube.com/)  
+[![Facebook](https://dileepabandara.github.io/public-images/tools-and-technologies/facebook_32px.png)](https://www.facebook.com/)
+[![Twitter](https://dileepabandara.github.io/public-images/tools-and-technologies/twitter_32px.png)](https://twitter.com/)
+[![YouTube](https://dileepabandara.github.io/public-images/tools-and-technologies/youtube_32px.png)](https://www.youtube.com/)  
 
 ## 🖥️ Projects
 
